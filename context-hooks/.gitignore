@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Expo y Metro
+.expo/
+dist/
+web-build/
+
+# macOS
+.DS_Store
+
+# Variables de entorno / Secretos
+.env
